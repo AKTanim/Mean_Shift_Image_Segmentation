@@ -1,5 +1,5 @@
 # Mean_Shift_Image_Segmentation
-### Proficiency of mean-shift algorithm for image segmentation
+### Efficacy of mean-shift algorithm for image segmentation
 
 This project was a part of my Computer Vision course at Maastricht University. It is an implementation and experimentation of the Mean-Shift algorithm for image segmentation. The following steps are performed:
 
